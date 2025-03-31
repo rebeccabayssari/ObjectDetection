@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Projet S8</string>
+    <string name="menu_button">Settings</string>
+    <string name="action_one">Action One</string>
+    <string name="action_two">Action Two</string>
+    <string name="record_button">Record Button</string>
+</resources>

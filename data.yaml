@@ -1,0 +1,13 @@
+train: /content/drive/MyDrive/à envoyer/dataset/train/images
+val: /content/drive/MyDrive/à envoyer/dataset/valid/images
+test: /content/drive/MyDrive/à envoyer/dataset/test/images
+
+nc: 13
+names: ['Common Lanthana', 'Hibiscus', 'Jatropha', 'Marigold', 'Rose', 'champaka', 'chitrak', 'honeysuckle', 'indian mallow', 'malabar melastome', 'shankupushpam', 'spider lily', 'sunflower']
+
+roboflow:
+  workspace: research-kiwbb
+  project: annot-0abet
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/research-kiwbb/annot-0abet/dataset/1

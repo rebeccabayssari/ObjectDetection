@@ -1,0 +1,9 @@
+<!-- res/menu/popup_menu.xml -->
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/action_one"
+        android:title="Flowers" />
+    <item
+        android:id="@+id/action_two"
+        android:title="Cats and Dogs" />
+</menu>
