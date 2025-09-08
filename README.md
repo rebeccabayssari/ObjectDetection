@@ -60,5 +60,4 @@ The Android app processes live video streams from the camera and displays boundi
 
 ---
 
-## 👩‍💻 Author
-Developed as part of a project on **AI and Mobile Deployment for Object Detection**.
+
